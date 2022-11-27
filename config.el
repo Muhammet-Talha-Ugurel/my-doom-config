@@ -6,7 +6,7 @@
 ;    By: mugurel <muhammedtalhaugurel@gmai...>      +#+  +:+       +#+         ;
 ;                                                 +#+#+#+#+#+   +#+            ;
 ;    Created: 2022/11/04 17:09:52 by mugurel           #+#    #+#              ;
-;    Updated: 2022/11/07 15:46:06 by mugurel          ###   ########.fr        ;
+;    Updated: 2022/11/27 23:33:04 by mugurel          ###   ########.fr        ;
 ;                                                                              ;
 ;******************************************************************************;
 
@@ -52,5 +52,5 @@
 (load "~/.doom.d/header.el")
 
 
-(load "~/.doom.d/42devkit/42devkit.el")
-(require '42devkit)
+;(load "~/.doom.d/42devkit/42devkit.el")
+;(require '42devkit)
